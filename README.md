@@ -112,8 +112,6 @@ $ npm install
 
 # Lembre-se! Antes de dar o "npm start" no projeto, inicialize a API com o mesmo comando.
 
-# A API se encontra no repositório:
-# https://github.com/heitordiasdev/API-Ingredientes-em-Foco
 
 # Caso esteja passando a URL base do axios com o arquivo ".env", verifique se o arquivo
 # ".env" está contendo este comendo abaixo dentro do arquivo ".env". 
@@ -131,52 +129,3 @@ $ http:/localhost:3000
 ```
 </br>
 
-> ### 🚀 Equipe de desenvolvimento - ⚡ Turing
-<table align="center">
-  <tr align="center">
-    <td>
-      <a href="https://github.com/heitordiasdev">
-        <img src="https://avatars.githubusercontent.com/heitordiasdev" width=100 />
-        <p>Heitor <br/>Dias</p>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/CintiaBraulino">
-        <img src="https://avatars.githubusercontent.com/CintiaBraulino" width=100 />
-        <p>Cintia <br/>Braulino</p>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/RubensLFerreira">
-        <img src="https://avatars.githubusercontent.com/RubensLFerreira" width=100 />
-        <p>Rubens <br/>Lima</p>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/emillymar">
-        <img src="https://avatars.githubusercontent.com/emillymar" width=100 />
-        <p>Emilly <br/>Marques</p>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alicia-Alexia">
-        <img src="https://avatars.githubusercontent.com/Alicia-Alexia" width=100 />
-        <p>Alicia <br/>Alexia</p>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/IgorPAS">
-        <img src="https://avatars.githubusercontent.com/IgorPAS" width=100 />
-        <p>Igor <br/>Silva</p>
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/aucoliveira">
-        <img src="https://avatars.githubusercontent.com/u/21234981?v=4" width=100 />
-        <p>Augusto <br/>Cesar</p>
-      </a>
-    </td>
-  </tr>
-</table>
