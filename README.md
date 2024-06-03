@@ -101,8 +101,6 @@ RF05 | <p>Possibilidade de filtrar alimentos que tenham determinados ingrediente
 > ### 🔁 Passo-a-passo para fazer a clonagem do projeto (repositório)
 
 ```bash
-# Comando para fazer a clonagem do repositório:
-$ git clone https://github.com/heitordiasdev/Ingredientes-em-Foco.git
 
 # Acesse a pasta do projeto:
 $ cd Ingredientes-em-Foco
